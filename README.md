@@ -1,82 +1,146 @@
-# Hi, I'm [Benslot Merjuste] 👋
+<div align="center">
 
-**IT Help Desk Technician · CompTIA A+ Certified · Florida, USA**
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=IT+Help+Desk+Professional&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CompTIA+A%2B+Certified+%7C+IT+Support+Intern+%E2%86%92+Help+Desk+Technician&descAlignY=58&descSize=16" />
 
-Entry-level IT professional focused on delivering reliable desktop support and exceptional end-user experiences. I hold a CompTIA A+ certification and have built hands-on labs covering Active Directory, ticketing workflows, Microsoft 365 administration, networking fundamentals, and technical documentation. I learn fast, communicate clearly, and treat every ticket as a chance to solve a real problem.
+# Benslot Merjuste
 
----
+**`Help Desk Technician | CompTIA A+ Certified | IT Support Specialist`**
 
-## 🛠️ Tech Stack & Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| **Directory Services** | Active Directory, Group Policy (GPO), Organizational Units, PowerShell |
-| **Cloud & Productivity** | Microsoft 365, Exchange Online, SharePoint, Teams, OneDrive |
-| **ITSM & Ticketing** | Jira Service Management, SLA workflows, ticket escalation |
-| **Networking** | Cisco Packet Tracer, TCP/IP, DNS, DHCP, VLANs, ACLs |
-| **Operating Systems** | Windows 10/11, installation, configuration, troubleshooting |
-| **Support Skills** | Remote desktop support, hardware diagnostics, technical documentation |
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 🙋 About Me
 
-### 🏢 [Active Directory Home Lab](https://github.com/yourusername/active-directory-lab)
-Deployed Active Directory Domain Services on Windows Server in a virtualized environment. Created and managed Organizational Units, user accounts, and security groups. Applied Group Policy Objects to enforce security baselines and desktop settings. Simulated a real enterprise IT environment including user onboarding and account lifecycle management.
+I'm an entry-level IT professional with **CompTIA A+ certification** and **1 year of hands-on IT support intern experience**. I'm passionate about solving technical problems, helping end-users succeed, and building reliable, well-documented IT environments.
 
-`Windows Server` `Active Directory` `PowerShell` `Group Policy` `VirtualBox`
+I built this portfolio to demonstrate the real-world skills hiring managers look for in a Help Desk Technician — from Active Directory administration to writing clear Knowledge Base articles that reduce repeat tickets.
 
----
-
-### 🎫 [Jira Help Desk Simulation](https://github.com/yourusername/jira-helpdesk-simulation)
-Built a complete ITSM ticketing workflow using Jira Service Management. Configured project boards, custom ticket queues, SLA rules, priority tiers, and escalation paths. Resolved 20+ simulated end-user issues and documented resolution steps. Demonstrates understanding of real-world help desk operations and IT service delivery.
-
-`Jira` `ITSM` `SLA Management` `Help Desk Workflows` `IT Support`
+> 💼 **Actively seeking a Help Desk / IT Support Level 1 role.**
+> 📍 Based in [Your City, State] — Open to remote or on-site positions.
 
 ---
 
-### ☁️ [Microsoft 365 Admin Lab](https://github.com/yourusername/microsoft-365-admin-lab)
-Administered a Microsoft 365 tenant through the Admin Center and Exchange Online. Tasks included user provisioning, license assignment, shared mailbox creation, distribution group management, MFA enforcement, and Conditional Access policy setup. Demonstrates practical M365 skills used daily in IT support roles.
+## 🏅 Certifications & Education
 
-`Microsoft 365` `Exchange Online` `Azure AD` `MFA` `SharePoint` `Teams Admin`
-
----
-
-### 🌐 [Cisco Packet Tracer Network Lab](https://github.com/yourusername/cisco-packet-tracer-lab)
-Designed and configured a small business network topology in Cisco Packet Tracer. Set up routers, managed switches, and VLAN segmentation. Configured DHCP scopes, DNS resolution, inter-VLAN routing, and basic Access Control Lists. Verifies network fundamentals required for help desk and desktop support roles.
-
-`Cisco Packet Tracer` `TCP/IP` `VLANs` `DHCP` `DNS` `ACL` `Networking`
+| Certification / Degree | Issuer | Status |
+|---|---|---|
+| 🎖️ CompTIA A+ (Core 1 & Core 2) | CompTIA | ✅ Certified |
+| 🎓 [Your Degree / Program] | [Your School] | ✅ Completed |
 
 ---
 
-### 📚 [IT Knowledge Base Articles](https://github.com/yourusername/it-knowledge-base)
-Authored 10+ step-by-step technical support articles covering common Windows, Microsoft 365, and network issues. Written in plain language for end users and IT staff. Topics include password resets, Outlook troubleshooting, VPN setup, printer issues, and account lockouts. Demonstrates communication skills critical for any help desk role.
+## 💼 Experience
 
-`Technical Writing` `Documentation` `Knowledge Base` `End-User Support`
-
----
-
-## 🏅 Certification
-
-**CompTIA A+** — Core 1 (220-1101) & Core 2 (220-1102)
-> Verify at: [verify.comptia.org](https://verify.comptia.org)
-
-*Currently studying toward:* CompTIA Network+ *(optional — remove or update as needed)*
+**IT Support Intern** — *[Company Name]* | *[Start Date] – [End Date]*
+- Provided Tier 1 technical support for 100+ end-users via in-person, phone, and remote sessions
+- Imaged and deployed Windows workstations; managed hardware replacements and peripheral setup
+- Created and managed user accounts, groups, and permissions in **Active Directory**
+- Logged, tracked, and resolved support tickets using a **ticketing system**, maintaining SLA compliance
+- Assisted with onboarding/offboarding workflows and documented recurring issues in the knowledge base
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+### Operating Systems & Hardware
+![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Identity & Endpoint Management
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Ticketing & ITSM
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Networking
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-grey?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-grey?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-grey?style=for-the-badge)
+
+### Remote Support & Tools
+![Remote Desktop](https://img.shields.io/badge/Remote_Desktop-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
 
 ---
 
-## 📬 Let's Connect
+## 📂 Portfolio Projects
 
-- 📧 **Email:** your.email@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📍 **Location:** Florida, USA — open to remote and local opportunities
+> Each project below reflects a core responsibility of a Help Desk Technician. Click any card to explore the full repository with documentation, screenshots, and step-by-step walkthroughs.
 
 ---
 
-*Open to Help Desk, Desktop Support, and IT Support Tier 1 roles.*
+### 🗂️ [01 — Active Directory Home Lab](https://github.com/[YourUsername]/active-directory-lab)
+
+**Skills Demonstrated:** User account lifecycle management · Group Policy Objects · OU structure · Password policies · Domain administration
+
+Built a Windows Server Active Directory environment to simulate real enterprise IT tasks. Includes user provisioning, group policy configuration, OU design, and account management workflows that mirror daily Help Desk operations.
+
+`Active Directory` `Windows Server 2019` `Group Policy` `PowerShell` `RSAT`
+
+---
+
+### 🎫 [02 — IT Ticketing System with Jira](https://github.com/[YourUsername]/jira-ticketing-system)
+
+**Skills Demonstrated:** Ticket lifecycle management · SLA tracking · Priority triage · ITSM workflow design · Escalation procedures
+
+Configured a Jira Service Management project to replicate a Help Desk ticketing environment. Includes custom workflows, priority queues, SLA rules, and documentation of how tickets are triaged, assigned, and resolved.
+
+`Jira Service Management` `ITSM` `SLA Management` `Ticket Triage` `Workflow Automation`
+
+---
+
+### ☁️ [03 — Microsoft 365 Administration](https://github.com/[YourUsername]/microsoft-365-admin)
+
+**Skills Demonstrated:** User lifecycle in M365 · License management · Exchange Online · SharePoint · Teams administration · Security & compliance basics
+
+Documented and demonstrated Microsoft 365 Admin Center tasks including user creation, license assignment, group management, mailbox configuration, and applying security policies — core tasks for any Help Desk supporting a cloud-first organization.
+
+`Microsoft 365` `Exchange Online` `SharePoint` `Teams` `Azure AD` `Admin Center`
+
+---
+
+### 🌐 [04 — Networking with Cisco Packet Tracer](https://github.com/[YourUsername]/cisco-packet-tracer-networking)
+
+**Skills Demonstrated:** Network topology design · IP addressing & subnetting · DHCP & DNS · Switch/router configuration · Troubleshooting connectivity
+
+Built and documented multiple network simulation labs using Cisco Packet Tracer, covering LAN/WAN design, IP addressing, VLAN configuration, and troubleshooting exercises that reflect real Help Desk networking support scenarios.
+
+`Cisco Packet Tracer` `TCP/IP` `Subnetting` `VLANs` `DHCP` `DNS` `OSI Model`
+
+---
+
+### 📖 [05 — Knowledge Base Article Library](https://github.com/[YourUsername]/knowledge-base-articles)
+
+**Skills Demonstrated:** Technical writing · End-user documentation · SOP creation · Self-service enablement · Reducing repeat tickets
+
+A collection of professional Knowledge Base articles written to help end-users resolve common IT issues independently. Articles follow a clear, structured format — Issue, Cause, Resolution, Prevention — modeled after enterprise IT documentation standards.
+
+`Technical Writing` `Knowledge Management` `SOP Documentation` `End-User Support` `IT Documentation`
+
+---
+
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YourProfile])
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YourEmail])
+[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://[YourResumeLink])
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=100&section=footer" />
+</div>
