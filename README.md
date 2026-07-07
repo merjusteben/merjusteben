@@ -8,39 +8,63 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm an entry-level IT professional focused on **Help Desk and Technical Support**, with hands-on experience troubleshooting hardware, software, and network issues, managing user accounts in **Active Directory**, and administering **Microsoft 365** environments. I've built practical, lab-based projects that mirror real help desk and sysadmin workflows — from resolving simulated tickets in **Jira** to configuring enterprise networks in **Cisco Packet Tracer** — so I can hit the ground running on day one.
+An entry-level IT Intern professional with a year of experience focused on **Help Desk and Technical Support**, with hands-on experience troubleshooting hardware, software, and network issues, managing user accounts in **Active Directory**, and administering **Microsoft 365** environments. I've built practical, lab-based projects that mirror real help desk and sysadmin workflows — from resolving simulated tickets in **Jira** to configuring enterprise networks in **Cisco Packet Tracer**.
 
-I'm looking for an **entry-level Help Desk / IT Support role** where I can apply strong troubleshooting instincts, clear communication with end users, and a genuine drive to keep learning (currently working toward [CompTIA A+ / Network+ / Security+ — edit to match your actual certs/in-progress certs]).
-
-**What I bring to a team:**
-- 🎯 Fast, methodical troubleshooter — I document root cause, not just the fix
-- 🗣️ Strong communicator who can translate technical issues into plain language for non-technical users
-- 📚 Self-directed learner — every project below was built independently to close real skill gaps employers ask for
-- 🤝 Reliable and detail-oriented, with a customer-service mindset carried over from [previous industry, e.g., retail/hospitality — edit or remove]
+I'm looking for an **entry-level Help Desk / IT Support role** where I can apply strong troubleshooting instincts, excellent customer service, and a genuine drive to keep learning.
 
 ---
 
-## 🛠️ Skills
+## Skills & Technologies
 
-**Operating Systems & Support**
-`Windows 10/11` `Windows Server` `macOS` `Remote Desktop / RDP` `Hardware Troubleshooting` `Software Installation & Patching`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Identity & Directory Services**
-`Active Directory` `Group Policy (GPO)` `User & Group Management` `Password/Account Administration`
+**💻 Operating Systems**
+<br>
+<img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-**Cloud & Productivity**
-`Microsoft 365 Admin Center` `Exchange Online` `SharePoint` `OneDrive` `Teams Administration` `Intune (basic)`
+</td>
+<td valign="top" width="50%">
 
-**Networking**
-`Cisco Packet Tracer` `TCP/IP` `Subnetting` `DNS/DHCP` `VLANs` `Basic Router/Switch Configuration`
+**🔐 Identity & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Active_Directory-00188F?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Group_Policy_(GPO)-00188F?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
-**Ticketing & Documentation**
-`Jira Service Management` `ITIL Fundamentals` `Knowledge Base Authoring` `SOP Documentation`
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-**Tools**
-`Git/GitHub` `Microsoft Excel` `Remote Support Tools`
+**🌐 Networking**
+<br>
+<img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNS-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/DHCP-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subnetting-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/VLAN-5E5E5E?style=flat-square"/>
+
+</td>
+<td valign="top" width="50%">
+
+**🎫 Support & ITSM**
+<br>
+<img src="https://img.shields.io/badge/Jira_Service_Mgmt-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technical_Documentation-5E5E5E?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
