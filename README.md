@@ -1,9 +1,10 @@
 <h1 align="center">Benslot Merjuste</h1>
 <h3 align="center">Help Desk Technician | IT Support Specialist</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center"> 
+  <a href="https://github.com/yourusername/yourusername/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -152,21 +153,4 @@ Authored a step-by-step knowledge base article for a common end-user issue, writ
 
 ## 📜 Certifications
 
-- ✅ [Certification Name] — Issuing Body (Year)
-- 🎯 In Progress: [CompTIA A+] — Expected [Month/Year]
-- 🎯 In Progress: [CompTIA Network+ / Security+] — Expected [Month/Year]
-
-*(Replace with your actual completed and in-progress certifications — even "in progress" signals initiative to hiring managers.)*
-
----
-
-## 📬 Contact Me
-
-I'm actively seeking entry-level Help Desk / IT Support opportunities and always happy to connect with recruiters, hiring managers, or fellow IT professionals.
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 📱 Phone: (000) 000-0000
-- 📍 Location: [City, State] — open to remote/hybrid/on-site
-
-<p align="center"><i>Thanks for stopping by — let's talk about how I can support your team's IT operations.</i></p>
+<img src="https://img.shields.io/badge/CompTIA_A%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white"/>
