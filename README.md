@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Benslot Merjuste</h1>
-<h3 align="center">Help Desk & IT Support Specialist</h3>
+<h1 align="center">Benslot Merjuste</h1>
+<h3 align="center">Help Desk Technician | IT Support Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
