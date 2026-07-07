@@ -70,27 +70,83 @@ I'm looking for an **entry-level Help Desk / IT Support role** where I can apply
 
 ## 💼 Featured Projects
 
-Each project below lives in its own repository with a detailed write-up, screenshots, and lessons learned — built to demonstrate real-world help desk and sysadmin scenarios.
+### 🏢 [Active Directory Home Lab](https://github.com/yourusername/active-directory-lab)
+> *Simulating a real enterprise domain environment from scratch*
 
-### 🗂️ [Active Directory User & Group Management Lab](https://github.com/yourusername/active-directory-lab)
-Deployed a Windows Server domain environment in a virtual lab to practice enterprise identity management. Created organizational units, user accounts, security groups, and Group Policy Objects to enforce password policy and restrict access by department — the exact skills needed to manage onboarding/offboarding tickets in a help desk role.
-**Tools:** Windows Server, Active Directory Users & Computers, Group Policy Management Console, VirtualBox/Hyper-V
+Built a Windows Server 2022 domain environment to practice core AD tasks that Help Desk techs perform daily. Covers the full user lifecycle — from onboarding to offboarding — using both GUI and PowerShell automation.
 
-### 🎫 [IT Ticketing System Simulation (Jira)](https://github.com/yourusername/jira-ticketing-system)
-Built a simulated help desk ticket queue in Jira Service Management to practice intake, triage, prioritization, and resolution workflows. Logged sample tickets across categories (password resets, hardware, network access, software) and documented SLAs and escalation paths, reflecting how I'll manage tickets in a real support queue.
-**Tools:** Jira Service Management, ITIL-based ticket categorization
+**What I built:**
+- Deployed Active Directory Domain Services (AD DS) on Windows Server 2022
+- Structured Organizational Units (OUs) mirroring a real company hierarchy
+- Configured Group Policy Objects (GPOs) for security baselines and desktop restrictions
+- Automated bulk user creation and password resets with PowerShell scripts
+- Set up DNS, DHCP, and domain-joined client VMs for end-to-end testing
 
-### ☁️ [Microsoft 365 Administration Project](https://github.com/yourusername/m365-admin-project)
-Configured and managed a Microsoft 365 tenant, including user provisioning, license assignment, Exchange Online mailbox setup, Teams/SharePoint administration, and basic security policies (MFA, conditional access basics). Simulates the daily M365 admin tasks common in help desk and IT support roles.
-**Tools:** Microsoft 365 Admin Center, Exchange Admin Center, Teams Admin Center, Entra ID (Azure AD)
+<img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=flat-square&logo=windows11&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/AD_DS-00188F?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Group_Policy-5E5E5E?style=flat-square"/>
 
-### 🌐 [Enterprise Network Design – Cisco Packet Tracer](https://github.com/yourusername/cisco-packet-tracer-network)
-Designed and configured a multi-department network topology including routers, switches, VLANs, DHCP, and basic access control lists. Tested connectivity end-to-end and troubleshot configuration errors — building the networking fundamentals help desk techs need to diagnose connectivity tickets.
-**Tools:** Cisco Packet Tracer, TCP/IP, VLANs, DHCP/DNS configuration
+---
+
+### 🎫 [IT Ticketing System - Jira Service Management](https://github.com/yourusername/jira-ticketing-system)
+> *Running a help desk queue the way a real support team would*
+
+Built a simulated help desk ticket queue in Jira Service Management to practice intake, triage, prioritization, and resolution — mirroring how a real support team manages daily ticket volume.
+
+**What I built:**
+- Configured a Jira Service Management project for IT support request types
+- Logged sample tickets across categories: password resets, hardware, network access, software
+- Documented SLAs and priority levels for each ticket category
+- Built a triage workflow: New → Acknowledged → In Progress → Resolved → Closed
+- Defined an escalation matrix for Tier 1 vs. Tier 2/3 handoff
+
+<img src="https://img.shields.io/badge/Jira_Service_Mgmt-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/ITIL-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/SLA_Management-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/Ticket_Triage-5E5E5E?style=flat-square"/>
+
+---
+
+### ☁️ [Microsoft 365 Administration Lab](https://github.com/yourusername/m365-admin-project)
+> *Running the cloud tools most companies actually use*
+
+Configured and managed a Microsoft 365 tenant end-to-end, covering user provisioning, mail administration, collaboration tools, and baseline security — the daily M365 admin tasks common in help desk and IT support roles.
+
+**What I built:**
+- Provisioned users and assigned licenses in Microsoft 365 Admin Center
+- Configured Exchange Online mailboxes, shared mailboxes, and mail forwarding rules
+- Administered Teams and SharePoint permissions at the department level
+- Enforced Multi-Factor Authentication (MFA) and a basic Conditional Access policy
+- Reviewed Entra ID sign-in logs to identify suspicious login activity
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white"/> <img src="https://img.shields.io/badge/Exchange_Online-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/> <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Teams_%26_SharePoint-6264A7?style=flat-square&logo=microsoftteams&logoColor=white"/>
+
+---
+
+### 🌐 [Networking Lab – Cisco Packet Tracer](https://github.com/yourusername/cisco-packet-tracer-network)
+> *Building and breaking a network to understand how it really works*
+
+Designed and configured a multi-department network topology including routers, switches, VLANs, and DHCP/DNS — building the networking fundamentals help desk techs need to diagnose connectivity tickets.
+
+**What I built:**
+- Configured inter-VLAN routing and departmental network segmentation
+- Set up DHCP scopes so each VLAN automatically issued correct IP addressing
+- Configured basic DNS resolution for internal name lookups
+- Implemented a basic Access Control List (ACL) to restrict cross-department access
+- Verified end-to-end connectivity using `ping` and `tracert` in simulation mode
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/VLANs-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/DHCP%2FDNS-5E5E5E?style=flat-square"/>
+
+---
 
 ### 📖 [IT Knowledge Base Article](https://github.com/yourusername/it-knowledge-base-article)
-Authored a step-by-step knowledge base article for a common end-user issue (e.g., "How to Reset a Forgotten Windows Password" or "Setting Up Outlook on a New Device"), written for a non-technical audience. Demonstrates the documentation skills that reduce repeat tickets and support faster onboarding of new help desk staff.
-**Tools:** Markdown, screenshots, technical writing best practices
+> *Writing documentation clear enough to stop the next ten tickets*
+
+Authored a step-by-step knowledge base article for a common end-user issue, written for a non-technical audience. Demonstrates the documentation skills that reduce repeat tickets and speed up onboarding of new help desk staff.
+
+**What I built:**
+- Structured the article with a summary, prerequisites, and numbered steps
+- Wrote plain-language instructions for a non-technical end user
+- Added annotated screenshots at key steps to reduce ambiguity
+- Included a troubleshooting/FAQ section for common follow-up issues
+- Defined a clear escalation point for when to contact IT Support
+
+<img src="https://img.shields.io/badge/Technical_Documentation-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/Knowledge_Base-5E5E5E?style=flat-square"/> <img src="https://img.shields.io/badge/End--User_Support-5E5E5E?style=flat-square"/>
 
 ---
 
