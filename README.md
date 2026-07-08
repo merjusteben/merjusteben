@@ -71,7 +71,7 @@ I'm looking for an **entry-level Help Desk / IT Support role** where I can apply
 
 ## 💼 Featured Projects
 
-### 🏢 [Active Directory Home Lab](https://github.com/yourusername/active-directory-lab)
+### 🏢 [Active Directory Home Lab](https://github.com/merjusteben/active-directory)
 > *Simulating a real enterprise domain environment from scratch*
 
 Built a Windows Server 2022 domain environment to practice core AD tasks that Help Desk techs perform daily. Covers the full user lifecycle — from onboarding to offboarding — using both GUI and PowerShell automation.
