@@ -2,7 +2,7 @@
 <h3 align="center">IT Support Specialist</h3>
 
 <p align="center"> 
-  <a href="https://github.com/yourusername/yourusername/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/yourusername/yourusername/blob/main/my_resume.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/merjuste/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
