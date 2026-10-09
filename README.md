@@ -45,6 +45,7 @@ IT Support Specialist with over a year of experience resolving over 40 tickets w
 <img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E?style=flat-square"/>
 <img src="https://img.shields.io/badge/DNS-5E5E5E?style=flat-square"/>
 <img src="https://img.shields.io/badge/DHCP-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firewalls-5391FE?style=flat-square&logo=Firewalls&logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
@@ -65,15 +66,15 @@ IT Support Specialist with over a year of experience resolving over 40 tickets w
 ### 🏢 [Active Directory Home Lab](https://github.com/merjusteben/active-directory)
 > *Simulating a real enterprise domain environment from scratch*
 
-Built a Windows Server 2022 domain environment to practice core AD tasks that Help Desk techs perform daily. Covers the full user lifecycle — from on-boarding to off-boarding.
+Built a Windows Server 2025 domain environment to practice core AD tasks that Help Desk techs perform daily. Covers the full user lifecycle — from on-boarding to off-boarding.
 
 **What I built:**
-- Deployed Active Directory Domain Services (AD DS) on Windows Server 2022
+- Deployed Active Directory Domain Services (AD DS) on Windows Server 2025
 - Structured Organizational Units (OUs) mirroring a real company hierarchy
 - Configured Group Policy Objects (GPOs) for security baselines and desktop restrictions
 - Set up DNS, DHCP, and domain-joined client VMs for end-to-end testing
 
-<img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=flat-square&logo=windows11&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/AD_DS-00188F?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Group_Policy-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Windows_Server_2025-0078D6?style=flat-square&logo=windows11&logoColor=white"/> <img src="https://img.shields.io/badge/AD_DS-00188F?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Group_Policy-5E5E5E?style=flat-square"/>
 
 ---
 
