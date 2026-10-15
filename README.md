@@ -10,7 +10,7 @@
 
 ## About Me
 
-> I've served as the first-line support IT professional at Central Florida Stone Casters, owning the entire technology environment  from systems management to daily help desk support for a team of 15 employees.
+> Served as the first-line support IT professional at Central Florida Stone Casters, owning the entire technology environment  from systems management to daily help desk support for a team of 15 employees.
 
 >My day-to-day covered user training, network Configuration, user account and permissions management, systems security, and hands-on troubleshooting for staff.
 
