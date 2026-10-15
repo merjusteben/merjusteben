@@ -10,7 +10,9 @@
 
 ## About Me
 
-IT Support Specialist with over a year of experience resolving over 40 tickets weekly across Windows 11, macOS, and Windows Server environments. CompTIA A+ certified, with hands-on experience in Active Directory, Group Policy, and network configuration (IP, DHCP, DNS). Proven record of reducing repeat incidents and strengthening security awareness.
+> I've served as the first-line support IT professional at Central Florida Stone Casters, owning the entire technology environment  from systems management to daily help desk support for a team of 15 employees.
+
+>My day-to-day covered user training, network Configuration, user account and permissions management, systems security, and hands-on troubleshooting for staff.
 
 ---
 
